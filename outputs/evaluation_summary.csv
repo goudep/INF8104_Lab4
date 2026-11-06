@@ -1,0 +1,2 @@
+holdout_samples,accuracy,precision,recall,roc_auc,tn,fp,fn,tp
+400,0.86,0.8376623376623377,0.80625,0.9400260416666666,215,25,31,129
